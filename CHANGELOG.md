@@ -1,5 +1,12 @@
 # Changelog
 
+## [9.9.3](https://github.com/npm/cli/compare/v9.9.2...v9.9.3) (2023-11-21)
+
+### Bug Fixes
+
+* [`878f22b`](https://github.com/npm/cli/commit/878f22b5323554540ab48271b6ddd5502de97845) [#7008](https://github.com/npm/cli/pull/7008) properly catch missing url opener error (@wraithgar)
+* [`91a8eca`](https://github.com/npm/cli/commit/91a8eca99457092389ee22ff7491b6886cf30654) [#7008](https://github.com/npm/cli/pull/7008) properly catch missing url opener error on interactive prompt (@wraithgar)
+
 ## [9.9.2](https://github.com/npm/cli/compare/v9.9.1...v9.9.2) (2023-11-14)
 
 ### Bug Fixes
