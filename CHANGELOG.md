@@ -1,5 +1,11 @@
 # Changelog
 
+## [10.2.5](https://github.com/npm/cli/compare/v10.2.4...v10.2.5) (2023-11-21)
+
+### Bug Fixes
+
+* [`6267f54`](https://github.com/npm/cli/commit/6267f543c2ac134c0f8433f8b48659a3949bf210) [#7005](https://github.com/npm/cli/pull/7005) properly catch missing url opener error on interactive prompt (#7005) (@wraithgar)
+
 ## [10.2.4](https://github.com/npm/cli/compare/v10.2.3...v10.2.4) (2023-11-14)
 
 ### Bug Fixes
